@@ -7,8 +7,8 @@
   "compatibility_flags": ["nodejs_compat"],
   "minify": true,
   "vars": {
-    "DATAFORSEO_USERNAME": "YOUR_LOGIN",
-    "DATAFORSEO_PASSWORD": "YOUR_PASSWORD",
+    "DATAFORSEO_USERNAME": "emre@popupsmart.com",
+    "DATAFORSEO_PASSWORD": "bq79sczg2rexoc8t",
     "ENABLED_MODULES": null,
     "DATAFORSEO_FULL_RESPONSE": "false"
   },
